@@ -342,3 +342,76 @@ body {
     margin-top: 20px;
     width: 300px;
 }
+
+
+
+
+
+
+
+
+
+/*Section class "Plan"*/
+.plan {
+    margin-top: 150px;
+    display:flex;
+    gap: 250px;
+}
+
+.plan 
+    .container {
+        display: flex;
+        gap: 50px;
+    }
+
+.plan h1 {
+    font-size: 60px;
+    width: 530px;
+    height: 140px;
+    line-height: 70px;
+    letter-spacing: -1.87579px;
+}
+
+
+.plan__switch {
+    margin-top: 50px;
+    display: flex;
+    gap: 3px;
+    height: 65px;
+    width: 350px;
+    background-color: #F7F7FB;
+    border-radius: 10px 8px 8px 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.plan__switch 
+    .yearly {
+        height: 55px;
+        background-color: #5454D4;
+        width: 160px;
+        text-align: center;
+        border-radius: 10px 0px 0px 10px;
+        margin-left: -5px; 
+    }
+
+.plan__switch
+    .yearly p {
+        margin-top: 15px;
+        color: #FFFFFF;
+    }
+
+.plan__switch 
+    .monthly {
+        width: 170px;
+        height: 50px;
+        background-color: #F7F7FB;
+        text-align: center;
+        border-radius: 10px 8px 8px 10px;
+    }
+
+.plan__switch 
+    .monthly p {
+        margin-top: 11px;
+        color: #19191B;
+    }
