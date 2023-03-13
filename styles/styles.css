@@ -257,3 +257,47 @@ body {
     .next {
    margin-top: 30px;
 }
+
+
+
+
+
+
+
+
+/*Section class "Metrics"*/
+.metrics {
+    margin-top: 30px;
+}
+
+.metrics
+    .container {
+        height: 530px;
+        display: flex;
+        gap: 60px;
+    }
+
+.metrics__info {
+    margin-top: 160px;
+    width: 555px;
+    height: 230px;
+}
+
+
+.metrics__info h1 {
+    font-size: 50px;
+    line-height: 57px;
+    letter-spacing: -1.56316px;
+}
+
+.metrics__info p {
+    height: 60px;
+    margin-top: 20px;
+    line-height: 30px;
+    letter-spacing: -0.625263px;
+}
+
+.metrics__info
+    .next {
+        margin-top: 30px;
+    }
