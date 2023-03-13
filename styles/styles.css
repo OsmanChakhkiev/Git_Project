@@ -415,3 +415,157 @@ body {
         margin-top: 11px;
         color: #19191B;
     }
+
+
+
+
+
+
+
+
+
+    /*Section class "Price"*/
+.price {
+    margin-top: 100px;
+}
+
+.price
+    .container {
+        display: flex;
+        justify-content: space-between;
+    }
+
+
+.price__block {
+    height: 441px;
+    width: 330px;
+    border-radius: 10px;
+    background: #F8F8F8;
+    font-family: 'DM Sans';
+}
+
+.price__block p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: -0.5627369284629822px;
+    text-align: center;
+    color: #696871;
+    margin-top: 34px;
+}
+
+.price__block h1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 56px;
+    text-align: center;
+    letter-spacing: -1.03448px;
+    color: #1D293F;
+    margin-top: 22px;
+}
+
+.price__block h1 mark {
+    background-color: #F8F8F8;
+    color: #1D293F;
+}
+
+.price__block
+    .price-info {
+        font-family: 'Mulish';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 17px;
+        line-height: 50px;
+        text-align: center;
+        letter-spacing: -0.531474px;
+        color: #696871;
+        margin-top: 28px;
+    }
+
+.price__block  
+    .key-block{
+        height: 60px;
+        width: 285px;
+        position: absolute;
+        background: #FFFFFF;
+        border: 1px solid #EAE9F2;
+        border-radius: 10px;
+        font-weight: 700;
+        font-size: 17px;
+        line-height: 22px;
+        letter-spacing: -0.531474px;
+        color: #5454D4;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: 22px;
+        margin-top: 36px;
+    }
+
+
+.price__block2 {
+    width: 376px;
+    height: 473px;
+    border-radius: 10px;
+    background: #FF7143;
+    font-family: 'DM Sans';
+    font-style: normal;
+    margin-top: -25px;
+}
+
+.price__block2 p {
+    margin-top: 50px;
+    font-weight: 400;
+    font-size: 18px;
+    font-family: 'DM Sans';
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: -0.562737px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.price__block2 h1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 56px;
+    text-align: center;
+    letter-spacing: -1.03448px;
+    margin-top: 22px;
+    color: #FFFFFF;
+}
+
+.price__block2 h1 mark {
+    background-color: #FF7143;
+    color: #FFFFFF;
+}
+
+.price__block2
+    .price__info {
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 28px;
+    font-family: 'Mulish';
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 50px;
+    text-align: center;
+    letter-spacing: -0.531474px;
+}
+
+.price__block2 
+    .key-block {
+        height: 60px;
+        width: 305px;
+        border-radius: 10px;
+        background: #9F3919;
+        color: #FFFFFF;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: 32px;
+        margin-top: 36px;
+    }    
+
+
