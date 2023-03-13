@@ -1,0 +1,133 @@
+/*Global class part*/
+body {
+    font-family: 'Mulish', sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+    color: black;
+    height: 3550px;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+
+.btn {
+    width: 211px;
+    height: 60px;
+    border-radius: 10px;
+    color: white;
+    font-family: "DM sans", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 17px;
+}
+
+.btn-orange {
+    background-color: #FF7143;
+}
+
+.btn-blue {
+    background-color: #5454D4;
+}
+
+.title {
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    color: #19191B;
+}
+
+.picture {
+    height: 473px;
+    width: 350px;
+}
+
+.paragraph {
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #696871;
+    width: 460px;
+}
+
+.learn {
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 22px;
+    letter-spacing: -0.531474px;
+    color: #5454D4;
+    width: 90px;
+    height: 22px;
+}
+
+.button-font {
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: -0.500211px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*PART "Header"*/
+
+.header {
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+.header 
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+.menu {
+    display: flex;
+    gap: 49px;
+}
+
+.menu a {
+    font-family: "DM sans";
+    font-size: 15px;
+    font-weight: 700;
+    color: #696871;
+}
+
+.menu a
+    .active {
+    color:black;
+}
+
+.main .container {
+    display: flex;   
+    gap: 74px;
+}
