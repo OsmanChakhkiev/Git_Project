@@ -196,3 +196,20 @@ body {
     height: 645px;
     width: 580px;
 }
+
+
+
+
+
+
+
+
+
+/*Section class "Logos"*/
+.logos
+    .container {
+        height: 200px;
+        display: flex;
+        justify-content: space-between;
+        margin-top: 200px;
+}
