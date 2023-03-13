@@ -213,3 +213,47 @@ body {
         justify-content: space-between;
         margin-top: 200px;
 }
+
+
+
+
+
+
+
+
+
+/*Section class "Subscription"*/
+.subscription {
+    margin-top: 110px;
+}
+
+.subscription
+    .container {
+        height: 530px;
+        display: flex;
+        gap: 170px;
+}
+
+.subscription__offer {
+    width: 555px;
+    height: 230px;
+    margin-top: 100px;
+}
+
+.subscription__offer h1 {
+    font-size: 50px;
+    line-height: 57px;
+    letter-spacing: -1.56316px;
+}
+
+.subscription__offer p {
+    height: 90px;
+    margin-top: 20px;
+    line-height: 30px;
+    letter-spacing: -0.625263px;
+}
+
+.subscription__offer
+    .next {
+   margin-top: 30px;
+}
