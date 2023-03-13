@@ -131,3 +131,68 @@ body {
     display: flex;   
     gap: 74px;
 }
+
+
+
+
+
+
+
+
+
+/*PART "Main"*/
+
+/*Section class "Grow"*/
+.grow
+    .container {
+        display: flex;
+        gap: 3px;
+        height: 630px;
+    }
+
+
+.grow__offer {
+    width: 590px;
+    height: 630px;
+    margin-top: 175px;
+}
+
+.grow__offer h1 {
+    height: 230px;
+    width: 460px;
+    font-size: 80px;
+    line-height: 77px;
+    letter-spacing: -2.50105px;
+}
+
+.grow__offer p {
+    height: 90px;
+    margin-top: 95px;
+    line-height: 30px;
+    letter-spacing: -0.625263px;
+}
+
+.grow__offer div {
+    height: 90px;
+    width: 470px;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    margin-top: 50px;
+}
+
+.grow__offer 
+    .scroll-down {
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+        border: 1px solid #E7E7E7;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+.grow__image {
+    height: 645px;
+    width: 580px;
+}
