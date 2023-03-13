@@ -301,3 +301,44 @@ body {
     .next {
         margin-top: 30px;
     }
+
+
+
+
+
+
+
+
+
+    /*Section class "Benifits"*/
+.benifits {
+    margin-top: 140px;
+}
+
+.benifits
+    .container {
+        display: flex;
+        justify-content: space-between;
+    }
+
+.benifits__block {
+    width: 307px;
+    height: 208px;
+    text-align: center;
+}
+
+
+.benifits__block h1 {
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: -0.750316px;
+    margin-top: 10px;
+}
+
+.benifits__block p {
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.500211px;
+    margin-top: 20px;
+    width: 300px;
+}
